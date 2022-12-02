@@ -10,5 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "author": "Josemi",
+  "description": "Pyhton module for certification.",
+  "keywords": [ "descriptive", "freecodecamp", "words" ],
+  "license": "BSD",
+  "version": "0.3.1"
 }
