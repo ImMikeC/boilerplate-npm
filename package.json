@@ -11,9 +11,13 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+<<<<<<< HEAD
   "author": "Josemi",
   "description": "Pyhton module for certification.",
   "keywords": [ "descriptive", "freecodecamp", "words" ],
   "license": "BSD",
   "version": "0.3.1"
+=======
+	"author": "Josemi Correa",
+>>>>>>> 9807afff403970ba5ba23dfeeb2d6d4cd591e11e
 }
